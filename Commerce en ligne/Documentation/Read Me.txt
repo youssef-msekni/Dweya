@@ -1,0 +1,4 @@
+Nous avons developpé un site d'e-commerce,plus prrecisament une pharmacie en ligne qui facilite qu utilisateur l'achat des medicaments,suppliments ,vitamines et tout ce qui est disponible dans une pharmacie.
+On peur acceder au page sans avoir besoin de s'inscrire pour savoir mieux comment la page fonctionne et c'esst que notre page Dweya ,mais pour avoir accés au boutique,il faut tou d'abbord s'identifier.
+Un administrateur peut accéder en specifiant son role et peut ajouter un produit a tout moment,il peut ausse consulter tous les formulaires remplis par les clients.
+Ces 3 videos explique les differents services offerts par notre site.
