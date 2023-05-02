@@ -665,7 +665,7 @@ enctype="application/x-www-form-urlencoded">
     </div>
   </section>
 
-<php
+<?php
 include("connexion.php");
 $idcom=connexpdo('db_commerce','myparam');
 if(!empty($_POST['nom']))  
@@ -690,7 +690,7 @@ $reqprep->bindValue(':message', $message,PDO::PARAM_STR);
 $reqprep->execute();
 echo "Vous êtes enregistré";
 }
->
+?>
 
   <!-- end contact section -->
 
